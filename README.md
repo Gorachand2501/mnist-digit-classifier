@@ -13,7 +13,7 @@ Compared to a simple feedforward model, this version achieves **higher accuracy*
 - 🧪 Achieves ~**99% test accuracy**
 
 ## 🏃‍♂️ Run it on Colab
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)
 (https://github.com/Gorachand2501/mnist-digit-classifier/blob/main/MNIST_Digit_Calssification%20(CNN).ipynb)
 
 ## 📦 Requirements
