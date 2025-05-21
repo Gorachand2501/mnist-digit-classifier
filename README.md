@@ -11,7 +11,7 @@ This project builds a simple feedforward neural network to classify handwritten 
 
 ## 🏃‍♂️ Run it on Colab
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/YOUR_GITHUB/mnist-digit-classifier/blob/main/mnist.ipynb)
+(https://colab.research.google.com/github/Gorachand2501/mnist-digit-classifier/blob/main/mnist.ipynb)
 
 ## 📦 Requirements
 - torch
